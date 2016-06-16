@@ -7,4 +7,6 @@ Feature 1.c
 Feature 2 implemented
 Feature 3 implementation
 Feature 3 in progress
+Feature 3 Some part
+still in progress implemented algorithm a
 Some Hot Fix Sould be always at the end of the file
