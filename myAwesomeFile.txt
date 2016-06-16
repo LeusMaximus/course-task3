@@ -9,4 +9,6 @@ Feature 3 implementation
 Feature 3 in progress
 Feature 3 Some part
 still in progress implemented algorithm a
+Feature 3 End of implementation
+implemented feature 3
 Some Hot Fix Sould be always at the end of the file
