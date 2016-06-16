@@ -4,4 +4,5 @@ Feature 1.b
 Feature partialy, still in progress
 Feature 1.c
  Feature 1 implemented
+Feature 2 implemented
 Some Hot Fix Sould be always at the end of the file
